@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+.registerForm {
+  width: 450px;
+}
+
+.formTitle {
+  font-size: 24px;
+}
+
+.inputWrapper {
+  margin-bottom: 20px;
+}
+
+.inputValue {
+  margin-bottom: 20px;
+}
+
+.scc.formLink {
+  margin-bottom: 20px;
+}
+
+.formButton {
+  margin-bottom: 20px;
+}
